@@ -338,7 +338,7 @@ lyrics_4 : "ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴀɴᴅ
 L_B_1 : "🚀 ᴄʜᴇᴄᴋᴏᴜᴛ ʟʏʀɪᴄs ɴᴏᴡ"
 
 #Suggestions
-sug_0 : "❓**Do You Know?**\n\n✅ "
+sug_0 : "❓**ne diyon?**\n\n✅ "
 sug_1 : "You can play music in two **search modes** i.e. Direct Mode and Inline Mode.\n\nChange modes via /playmode"
 sug_2 : "You can play music in two **play types** i.e. Everyone Mode and Admins Mode.\n\nChange modes via /playmode"
 sug_3 : "You can play music in **channels** too.\n\nSet channel_id via /channelplay and play via /cplay "
