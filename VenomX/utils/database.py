@@ -2,7 +2,7 @@ import random
 from typing import Dict, List, Union
 
 from VenomX import userbot
-from VenomX.core.mongo import mongodb
+
 
 authdb = mongodb.adminauth
 authuserdb = mongodb.authuser
