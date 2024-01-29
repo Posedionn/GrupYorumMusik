@@ -4,26 +4,7 @@ from typing import Dict, List, Union
 from VenomX import userbot
 
 
-authdb = mongodb.adminauth
-authuserdb = mongodb.authuser
-autoenddb = mongodb.autoend
-assdb = mongodb.assistants
-blacklist_chatdb = mongodb.blacklistChat
-blockeddb = mongodb.blockedusers
-cleandb = mongodb.cleanmode
-chatsdb = mongodb.chats
-channeldb = mongodb.cplaymode
-countdb = mongodb.upcount
-gbansdb = mongodb.gban
-langdb = mongodb.language
-onoffdb = mongodb.onoffper
-suggdb = mongodb.suggestion
-playmodedb = mongodb.playmode
-playtypedb = mongodb.playtypedb
-skipdb = mongodb.skipmode
-sudoersdb = mongodb.sudoers
-usersdb = mongodb.tgusersdb
-queriesdb = mongodb.queries
+
 
 # Shifting to memory [mongo sucks often]
 active = []
