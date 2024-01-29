@@ -87,21 +87,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/yeni-music-01-21"
+    "START_IMG_URL", "https://telegra.ph/Music-11-30-4"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/yeni-music-01-21"
+    "PING_IMG_URL", "https://telegra.ph/Music-11-30-4"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-STATS_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/yeni-music-01-21"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/yeni-music-01-21"
-STREAM_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-YOUTUBE_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/yeni-music-01-21"
+PLAYLIST_IMG_URL = "https://telegra.ph/Music-11-30-4"
+STATS_IMG_URL = "https://telegra.ph/Music-11-30-4"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/Music-11-30-4"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/Music-11-30-4"
+STREAM_IMG_URL = "https://telegra.ph/Music-11-30-4"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/Music-11-30-4"
+YOUTUBE_IMG_URL = "https://telegra.ph/Music-11-30-4"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/Music-11-30-4"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/Music-11-30-4"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/Music-11-30-4"
 
 
 def time_to_seconds(time):
